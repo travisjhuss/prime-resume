@@ -2,6 +2,7 @@
   position: fixed;
   top: 0;
   width: 100%
+  z-index: 1;
 }
 
 .name {
@@ -13,8 +14,9 @@
 }
 
 .main {
-  margin-top: 100px;
+  margin-top: 110px;
   overflow: scroll;
+  z-index: -1;
 }
 
 .right{
