@@ -1,5 +1,9 @@
-p {
-  
+.name {
+  border-bottom: 1px solid black;
+}
+
+.contact {
+  border-bottom: 1px solid black;
 }
 
 .right{
