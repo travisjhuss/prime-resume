@@ -33,16 +33,17 @@
   background-color: navy;
   z-index: 1;
   display: block;
-  font-family: "Raleway", sans serif;
-  font-weight: 200;
 }
 
 .name {
- 
+   font-family: "Raleway", sans serif;
+   font-weight: 600;
 }
 
 .contact {
   border-bottom: 1px solid beige;
+  font-family: "Raleway", sans serif;
+  font-weight: 400;
 }
 
 .main {
