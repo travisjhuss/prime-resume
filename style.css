@@ -17,9 +17,19 @@
 }
 
 .main {
-  margin-top: 110px;
+  margin-top: 130px;
   overflow: scroll;
   z-index: -1;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: beige;
+  background-color: navy;
+  z-index: 1;
+  display: block;
 }
 
 .right{
