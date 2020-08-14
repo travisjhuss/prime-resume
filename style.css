@@ -39,6 +39,7 @@ body {
   background-color: rgba(78,89,144,1);
   position: fixed;
   width: 100%;
+  top: 0;
   height: 150px;
   color: AntiqueWhite;
   z-index: 10;
