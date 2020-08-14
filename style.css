@@ -79,6 +79,10 @@ body {
   font-family: "raleway", sans serif;
 }
 
+.references {
+  font-size: 10px;
+}
+
 .right{
     float:right;
 }
