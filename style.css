@@ -1,10 +1,11 @@
 .header {
   position: fixed;
   top: 0;
-  width: 100%
+  width: 100%;
+  color: beige;
+  background-color: navy;
   z-index: 1;
-  color: white;
-  background-color: blue;
+  display: block;
 }
 
 .name {
