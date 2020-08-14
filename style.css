@@ -24,7 +24,7 @@
   background-color: navy;
   z-index: 1;
   display: block;
-  font-family: "oswald", sans serif;
+  font-family: "Oswald", sans serif;
   font-weight: 200;
 }
 
@@ -33,7 +33,7 @@
 }
 
 .contact {
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid beige;
 }
 
 .main {
