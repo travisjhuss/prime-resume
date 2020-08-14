@@ -65,13 +65,15 @@ body {
   overflow: scroll;
   z-index: -1;
   font-family: "raleway", sans serif;
+  color: AntiqueWhite;
+  font-size: 14px;
 }
 
 .footer {
   position: fixed;
   bottom: 0;
   width: 100%;
-  color: beige;
+  color: AntiqueWhite;
   z-index: 1;
   display: block;
   font-family: "raleway", sans serif;
