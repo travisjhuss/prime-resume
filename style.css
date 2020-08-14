@@ -6,6 +6,7 @@
   background-color: navy;
   z-index: 1;
   display: block;
+  font-family: "oswald", sans serif;
 }
 
 .name {
