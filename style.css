@@ -51,6 +51,7 @@
   margin-bottom: 130px;
   overflow: scroll;
   z-index: -1;
+  font-family: "raleway", sans serif;
 }
 
 .footer {
@@ -61,6 +62,7 @@
   background-color: navy;
   z-index: 1;
   display: block;
+  font-family: "raleway", sans serif;
 }
 
 .right{
