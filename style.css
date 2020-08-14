@@ -25,12 +25,16 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
+body {
+  background: rgb(104,165,166);
+  background: linear-gradient(0deg, rgba(104,165,166,1) 0%, rgba(51,71,167,1) 100%);
+}
+
 .header {
   position: fixed;
   top: 0;
   width: 100%;
   color: beige;
-  background-color: navy;
   z-index: 1;
   display: block;
 }
@@ -59,7 +63,6 @@
   bottom: 0;
   width: 100%;
   color: beige;
-  background-color: navy;
   z-index: 1;
   display: block;
   font-family: "raleway", sans serif;
