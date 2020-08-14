@@ -1,9 +1,19 @@
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
 .name {
   border-bottom: 1px solid black;
 }
 
 .contact {
   border-bottom: 1px solid black;
+}
+
+.experience {
+  overflow: scroll;
 }
 
 .right{
