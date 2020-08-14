@@ -36,8 +36,9 @@ body {
 }
 
 .header {
-  background-color: rgb(104,165,166);
+  background-color: rgba(78,89,144,1);
   position: fixed;
+  width: 100%;
   top: 0;
   height: 150px;
   color: AntiqueWhite;
