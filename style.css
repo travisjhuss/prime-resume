@@ -5,14 +5,15 @@
 }
 
 .name {
-  border-bottom: 1px solid black;
+ 
 }
 
 .contact {
   border-bottom: 1px solid black;
 }
 
-.experience {
+.main {
+  margin-top: 100px;
   overflow: scroll;
 }
 
