@@ -43,7 +43,7 @@ body {
   height: 150px;
   color: AntiqueWhite;
   z-index: 1;
-  display: block;
+  display: inline-block;
   border-bottom: 2px solid AntiqueWhite;
 }
 
