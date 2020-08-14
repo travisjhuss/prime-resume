@@ -27,13 +27,16 @@
 
 body {
   background: rgb(104,165,166);
-  background: linear-gradient(0deg, rgba(104,165,166,1) 0%, rgba(51,71,167,1) 100%);
+  background: linear-gradient(0deg, rgba(104,165,166,1) 0%, rgba(78,89,144,1) 100%);
 }
 
 .header {
   position: fixed;
   top: 0;
+  height: 200px;
   width: 100%;
+  max-width: 400px;
+  min-width: 100px;
   color: beige;
   z-index: 1;
   display: block;
@@ -42,6 +45,7 @@ body {
 .name {
    font-family: "Raleway", sans serif;
    font-weight: 600;
+   font-size: 14px;
 }
 
 .contact {
