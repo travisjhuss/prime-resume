@@ -30,11 +30,6 @@ body {
   background: linear-gradient(0deg, rgba(104,165,166,1) 0%, rgba(78,89,144,1) 100%);
 }
 
-#container {
-  width: 800px;
-  margin: 40px auto 60px;
-}
-
 #header {
   background-color: rgba(78,89,144,1);
   position: fixed;
@@ -79,14 +74,13 @@ body {
 }
 
 #main {
-  margin-top: 300px;
   overflow: scroll;
   z-index: -1;
   font-family: "raleway", sans serif;
   color: AntiqueWhite;
   font-size: 14px;
   width: 800px;
-  margin: 40px auto 60px;
+  margin: 160px auto 60px;
 }
 
 
