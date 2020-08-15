@@ -37,7 +37,7 @@ body {
   top: 0;
   left: 0;
   right: 0;
-  height: 160px;
+  height: 170px;
   color: AntiqueWhite;
   z-index: 10;
   display: block;
@@ -87,6 +87,14 @@ body {
 .education {
   color: AntiqueWhite;
   border-bottom: 1px solid AntiqueWhite;
+}
+
+p {
+  font-size: 14px;
+}
+
+ul {
+  font-size: 14px;
 }
 
 h3 {
