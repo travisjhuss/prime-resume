@@ -40,6 +40,8 @@ body {
   position: fixed;
   width: 100%;
   top: 0;
+  left: 0;
+  right: 0;
   height: 150px;
   color: AntiqueWhite;
   z-index: 10;
@@ -53,7 +55,7 @@ body {
    font-weight: 600;
    font-size: 16px;
    width: 800px;
-   margin: 40px auto 60px;
+   height: 75px;
 }
 
 .contact {
@@ -62,7 +64,7 @@ body {
   font-weight: 300;
   font-size: 12px;
   width: 800px;
-  margin: 40px auto 60px;
+  height: 60;
 }
 
 .objective {
