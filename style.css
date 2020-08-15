@@ -65,7 +65,7 @@ body {
   font-weight: 300;
   font-size: 12px;
   width: 800px;
-  margin: 10px auto 0px;
+  margin: 10px auto 5px;
 }
 
 .objective {
@@ -79,7 +79,7 @@ body {
 }
 
 #main {
-  margin-top: 150px;
+  margin-top: 300px;
   overflow: scroll;
   z-index: -1;
   font-family: "raleway", sans serif;
