@@ -49,6 +49,7 @@ body {
    color: AntiqueWhite;
    font-weight: 600;
    font-size: 18px;
+   text-shadow: 2px 2px #ff0000;
    width: 800px;
    margin: 35px auto 0px;
    letter-spacing: 0.15em
