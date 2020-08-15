@@ -60,7 +60,7 @@ body {
   font-weight: 300;
   font-size: 12px;
   width: 800px;
-  margin: 10px auto 5px;
+  margin: 5px auto 5px;
 }
 
 .objective {
@@ -94,12 +94,13 @@ h3 {
 
 h4 {
   font-size: 15px;
-  margin-top: 1px;
+  margin-top: 2px;
 }
 
 .references {
   color: AntiqueWhite;
   font-size: 10px;
+  margin-top: 2px;
 }
 
 .right{
