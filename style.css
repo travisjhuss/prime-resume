@@ -37,7 +37,7 @@ body {
   top: 0;
   left: 0;
   right: 0;
-  height: 155px;
+  height: 160px;
   color: AntiqueWhite;
   z-index: 10;
   display: block;
@@ -60,7 +60,7 @@ body {
   font-weight: 300;
   font-size: 12px;
   width: 800px;
-  margin: 5px auto 5px;
+  margin: 5px auto 10px;
 }
 
 .objective {
