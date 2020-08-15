@@ -45,7 +45,7 @@ body {
   height: 150px;
   color: AntiqueWhite;
   z-index: 10;
-  display: inline-block;
+  display: block;
   border-bottom: 2px solid AntiqueWhite;
 }
 
@@ -57,6 +57,7 @@ body {
    width: 800px;
    height: 75px;
    margin: 40px auto 10px;
+   letter-spacing: 0.02em
 }
 
 .contact {
