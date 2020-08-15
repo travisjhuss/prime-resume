@@ -79,6 +79,7 @@ body {
   z-index: -1;
   font-family: "raleway", sans serif;
   color: AntiqueWhite;
+  text-align: center;
   width: 800px;
   margin: 160px auto 60px;
 }
