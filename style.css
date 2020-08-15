@@ -35,7 +35,7 @@ body {
   margin: 40px auto 60px;
 }
 
-.header {
+#header {
   background-color: rgba(78,89,144,1);
   position: fixed;
   width: 100%;
@@ -51,12 +51,16 @@ body {
    font-family: "Raleway", sans serif;
    font-weight: 600;
    font-size: 16px;
+   width: 800px;
+   margin: 40px auto 60px;
 }
 
 .contact {
   font-family: "Raleway", sans serif;
   font-weight: 300;
   font-size: 12px;
+  width: 800px;
+  margin: 40px auto 60px;
 }
 
 .objective {
@@ -67,19 +71,17 @@ body {
   border-bottom: 1px solid AntiqueWhite;
 }
 
-.main {
+#main {
   margin-top: 150px;
   overflow: scroll;
   z-index: -1;
   font-family: "raleway", sans serif;
   color: AntiqueWhite;
   font-size: 14px;
+  width: 800px;
+  margin: 40px auto 60px;
 }
 
-.footer {
-  color: AntiqueWhite;
-  font-family: "raleway", sans serif;
-}
 
 .education {
   border-bottom: 1px solid AntiqueWhite;
