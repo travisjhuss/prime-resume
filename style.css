@@ -53,11 +53,10 @@ body {
    font-family: "Raleway", sans serif;
    color: AntiqueWhite;
    font-weight: 600;
-   font-size: 16px;
+   font-size: 18px;
    width: 800px;
-   height: 75px;
-   margin: 40px auto 10px;
-   letter-spacing: 0.02em
+   margin: 40px auto 0px;
+   letter-spacing: 0.03em
 }
 
 .contact {
@@ -66,7 +65,6 @@ body {
   font-weight: 300;
   font-size: 12px;
   width: 800px;
-  height: 60;
   margin: 10px auto 0px;
 }
 
