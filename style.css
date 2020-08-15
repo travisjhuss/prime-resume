@@ -78,7 +78,6 @@ body {
   z-index: -1;
   font-family: "raleway", sans serif;
   color: AntiqueWhite;
-  font-size: 14px;
   width: 800px;
   margin: 160px auto 60px;
 }
@@ -87,7 +86,14 @@ body {
 .education {
   color: AntiqueWhite;
   border-bottom: 1px solid AntiqueWhite;
-  font-size 12px;
+}
+
+h3 {
+  font-size: 14px;
+}
+
+h4 {
+  font-size: 12px;
 }
 
 .references {
